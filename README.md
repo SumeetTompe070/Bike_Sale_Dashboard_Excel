@@ -1,7 +1,8 @@
 # Bike_Sale_Dashboard_Excel
-Project objective:the primary Objective of  Bike Sale Dashboard in Excel will serve as a valuable tool for analyzing sales performance, identifying trends, and supporting strategic decision-making in the bike sales business.
+# Project objective:
+the primary Objective of  Bike Sale Dashboard in Excel will serve as a valuable tool for analyzing sales performance, identifying trends, and supporting strategic decision-making in the bike sales business.
 
-#Creating a Bike Sale Dashboard in Excel involves the following steps:
+# Creating a Bike Sale Dashboard in Excel involves the following steps:
 
 Data Collection:
 Gather relevant data about bike sales, including dates, models, quantities, prices, and customer information.
@@ -21,9 +22,16 @@ Create pivot tables to summarize and filter data. Use these tables to drive dyna
 Filters and Slicers:
 Add interactive elements like drop-down lists and slicers to filter data by date, model, or other criteria.
 
-#Insights:
+# Insights:
+
 *Average Income of somebody purchase or not a bike.
+
 *How much mile/distance He /She travelled.
+
 *which age Bracket people had purchased  more bike.
+
+# BIKE SALE DASHBOARD:-
+![Bike Dashboard](https://github.com/SumeetTompe070/Bike_Sale_Dashboard_Excel/assets/140255237/6d054ae3-da54-4af5-ad31-f31e38bc677b)
+
 
 
